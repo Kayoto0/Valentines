@@ -44,6 +44,17 @@ let questions = [
       "Your Sniffy sniff"
     ]
   },
+{
+    numb: 5,
+    question: "How much do I love you",
+    answer: "INFINITLY ",
+    options: [
+      "ALLLLLLOT ",
+      "NOT ENOUGH",
+      "INFINITLY ",
+      "A LIL"
+    ]
+  },
 
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
