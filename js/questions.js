@@ -66,7 +66,50 @@ let questions = [
       "Maybe"
     ]
   },
-
+{
+    numb: 7,
+    question: "2 plus 2",
+    answer: "49",
+    options: [
+      "48",
+      "4",
+      "99 ",
+      "49"
+    ]
+  },
+{
+    numb: 8,
+    question: "The first physical gift I made for you",
+    answer: "A ring",
+    options: [
+      "Idk ",
+      "A chain",
+      "A ring ",
+      "Toes"
+    ]
+  },
+{
+    numb: 9,
+    question: "How long we've been together ",
+    answer: "7 months and 20 days",
+    options: [
+      "....",
+      "7 months 15 days",
+      "8 months ",
+      "7 months 20 days"
+    ]
+  },
+{
+    numb: 10,
+    question: "What do we call potato ",
+    answer: "❤️📸 ",
+    options: [
+      "😭😍",
+      "😏",
+      "❤️📸 ",
+      "😚💞"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
