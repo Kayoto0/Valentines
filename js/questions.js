@@ -23,7 +23,7 @@ let questions = [
     ]
   },
   {
-    numb: 2,
+    numb: 3,
     question: "The Whoring Cat????",
     answer: "Star",
     options: [
@@ -34,7 +34,7 @@ let questions = [
     ]
   },
 {
-    numb: 3,
+    numb: 4,
     question: "The part of you I compliment the MOST",
     answer: "Star",
     options: [
