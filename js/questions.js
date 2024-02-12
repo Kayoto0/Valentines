@@ -22,19 +22,8 @@ let questions = [
       "Myself"
     ]
   },
-  {
-    numb: 3,
-    question: "The Whoring Cat????",
-    answer: "Star",
-    options: [
-      "Sun",
-      "Moon",
-      "Star",
-      "Neptune"
-    ]
-  },
 {
-    numb: 4,
+    numb: 3,
     question: "The part of you I compliment the MOST",
     answer: "Your eyes",
     options: [
@@ -45,7 +34,7 @@ let questions = [
     ]
   },
 {
-    numb: 5,
+    numb: 4,
     question: "How much do I love you",
     answer: "INFINITLY ",
     options: [
@@ -56,7 +45,7 @@ let questions = [
     ]
   },
 {
-    numb: 6,
+    numb: 5,
     question: "Are you fine",
     answer: "Maybe",
     options: [
@@ -67,7 +56,7 @@ let questions = [
     ]
   },
 {
-    numb: 7,
+    numb: 6,
     question: "2 plus 2",
     answer: "49",
     options: [
@@ -78,7 +67,7 @@ let questions = [
     ]
   },
 {
-    numb: 8,
+    numb: 7,
     question: "The first physical gift I made for you",
     answer: "A ring",
     options: [
@@ -89,7 +78,7 @@ let questions = [
     ]
   },
 {
-    numb: 9,
+    numb: 8,
     question: "How long we've been together ",
     answer: "7 months and 20 days",
     options: [
@@ -100,7 +89,7 @@ let questions = [
     ]
   },
 {
-    numb: 10,
+    numb: 9,
     question: "What do we call potato ",
     answer: "❤️📸 ",
     options: [
@@ -111,7 +100,7 @@ let questions = [
     ]
   },
 {
-    numb: 11,
+    numb: 10,
     question: "Let's make out in my bed",
     answer: "Sure","Yes", "YESSS PLEASE", 
     options: [
