@@ -36,7 +36,7 @@ let questions = [
 {
     numb: 4,
     question: "The part of you I compliment the MOST",
-    answer: "Star",
+    answer: "Your eyes",
     options: [
       "Your Eyes",
       "Your Ta Tas",
