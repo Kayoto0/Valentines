@@ -57,7 +57,7 @@ let questions = [
   },
    {
     numb: 6,
-    question: "TWioll you be my Valentines Next Yeat",
+    question: "TWioll you be my Valentines Next Year",
     answer: "Yes",
     options: [
       "Yes",
