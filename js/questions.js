@@ -102,7 +102,7 @@ let questions = [
 {
     numb: 10,
     question: "Let's make out in my bed",
-    answer: "Sure","Yes", "YESSS PLEASE", 
+    answer: "Sure",
     options: [
       "Sure",
       "YESSS PLEASE",
